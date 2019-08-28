@@ -1,0 +1,8 @@
+go to jira
+in command prompt pestvthe url
+git stash apply
+commit file whatever files want to commit
+then push onto branch
+on jira got to commit click url
+on pull request create new pull request
+and save it
